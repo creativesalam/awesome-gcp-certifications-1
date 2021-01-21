@@ -10,6 +10,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+|  2021/01 | [Google Cloud Professional Machine Learning Engineer Exam: Impression and Advice](https://yingyingh.medium.com/google-cloud-professional-machine-learning-engineer-exam-impression-and-advice-e069d8d0a971) | Yingying Hu |
 |  2021/01 | [How I cracked the GCP PMLE certification in 8 days!](https://ml-rafiqhasan.medium.com/how-i-cracked-the-gcp-professional-ml-engineer-certification-in-8-days-f341cf0bc5a0) | Hasan Rafiq |
 |  2020/12 | [GCP ML Certification Prep](https://hilliao.medium.com/google-cloud-professional-machine-learning-engineer-certification-preparation-guide-22a58a6610c9) | Hil Liao|
 |  2020/11 | [GC PMLE: The definitive guide](https://towardsdatascience.com/google-professional-machine-learning-engineer-exam-what-to-expect-f1188e356046) | Oleh Lokshyn |
